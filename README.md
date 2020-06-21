@@ -8,7 +8,7 @@
 
 <img src="img/1st%20screen.jpeg" width="300"> 
 
-*First page visible through default search item*
+*Home screen visible through default search item*
 
 <img src="img/pavbhaji.jpeg" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/presde.jpeg" width="300">
 
